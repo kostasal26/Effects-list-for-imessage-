@@ -2,14 +2,14 @@
 This is a list of things that will happen when you type___ in a message (in imessage)
 
 List of words and the effect they give:
-1. Happy Eid = Shooting star
-2. Happy Chinese New Year = Firecrackers & vibrations
-3. Happy Lunar New Year = Firecrackers & vibrations
-4. Happy New Year = Fireworks
-5. Happy Deepawali = Fireworks
-6. Happy Birthday = Balloons
-7. Congrats = Confetti
-8. Congratulations = Confetti
-9. Best Wishes = Confetti
- 10. Pew Pew = Lasers
+ Happy Eid = Shooting star
+ Happy Chinese New Year = Firecrackers & vibrations
+ Happy Lunar New Year = Firecrackers & vibrations
+ Happy New Year = Fireworks
+ Happy Deepawali = Fireworks
+ Happy Birthday = Balloons
+ Congrats = Confetti
+ Congratulations = Confetti
+ Best Wishes = Confetti
+ Pew Pew = Lasers
 
