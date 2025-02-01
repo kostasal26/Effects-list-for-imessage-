@@ -11,5 +11,5 @@ List of words and the effect they give:
 7. Congrats = Confetti
 8. Congratulations = Confetti
 9. Best Wishes = Confetti
-10. Pew Pew = Lasers
+ 10. Pew Pew = Lasers
 
